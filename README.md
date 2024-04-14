@@ -25,7 +25,7 @@ Run the `main.py` script and enter your text input when prompted. The model will
 # Configuration
 You can customize the text generation parameters in the `config.py`:
 
-`max_new_tokens`: Maximum number of tokens in the generated text.
-`temperature`: Controls the randomness of the generated text.
-`top_p`: Controls the diversity of the generated text.
-`repetition_penalty`: Controls the repetition in the generated text.
+- `max_new_tokens`: Maximum number of tokens in the generated text.
+- `temperature`: Controls the randomness of the generated text.
+- `top_p`: Controls the diversity of the generated text.
+- `repetition_penalty`: Controls the repetition in the generated text.
