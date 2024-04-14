@@ -21,7 +21,6 @@ repetition_penalty = 1.2
 ```
 
 Run the `main.py` script and enter your text input when prompted. The model will generate a response based on your input.
-```python main.py```
 
 # Configuration
 You can customize the text generation parameters in the `config.py`:
