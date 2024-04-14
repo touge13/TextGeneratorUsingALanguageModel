@@ -7,6 +7,7 @@ This project demonstrates how to generate text using the Hugging Face API. It us
 # Start a project
 
 Set up your API key and model name:
+
 Create a `config.py` file.
 Add your Hugging Face API key and model name to the `config.py` file:
 ```
