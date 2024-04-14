@@ -16,10 +16,10 @@ def text_generation_request(input_text, model_name):
     payload = {
         "inputs": input_text,
         "parameters": {
-            "max_new_tokens": max_new_tokens,          # Maximum number of tokens in generated text
-            "temperature": temperature,             # Controls randomness of generated text
-            "top_p": top_p,                   # Controls diversity of generated text
-            "repetition_penalty": repetition_penalty       # Controls repetition in generated text
+            "max_new_tokens": max_new_tokens,         # Maximum number of tokens in generated text
+            "temperature": temperature,               # Controls randomness of generated text
+            "top_p": top_p,                           # Controls diversity of generated text
+            "repetition_penalty": repetition_penalty  # Controls repetition in generated text
         }
     }
     
