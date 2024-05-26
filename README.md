@@ -4,6 +4,8 @@ Completed by: `Grudinin Mikhail Artemovich (Грудинин Михаил Арт
 
 This project demonstrates how to generate text using the Hugging Face API. It uses a pre-trained language model to generate responses based on user input.
 
+<img width="1144" alt="image" src="https://github.com/touge13/TextGeneratorUsingALanguageModel/assets/76101411/01668278-3502-4d08-b1c7-9a09b0e4d3e6">
+
 # Start a project
 
 Set up your API key and model name:
